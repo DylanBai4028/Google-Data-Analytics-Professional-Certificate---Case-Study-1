@@ -7,3 +7,10 @@ Established in 2016, Cyclistic is a leading bike-share company in Chicago, boast
 ## Links
 
 * [Tableau Dasboard](https://public.tableau.com/views/GoogleCapstoneProjectCaseStudy1FinalVersion/TableauDashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - created an interactive dashboard in Tableau to present effective data visualisations that summarised my analysis.
+
+## Files
+
+* [Case_Study_1_RMarkDown.Rmd](https://github.com/DylanBai4028/Google-Data-Analytics-Professional-Certificate---Case-Study-1/blob/main/Case_Study_1_RMarkDown.Rmd) - RMarkdown file containing my code relating to my work on this case study.
+* [Case_Study_1_Script.R](https://github.com/DylanBai4028/Google-Data-Analytics-Professional-Certificate---Case-Study-1/blob/main/Case_Study_1_Script.R) - R script file containing all working code to perform my data importing, cleaning, manipulation and analysis of data sets.
+* [Case_Study_1_mdfile_.md](https://github.com/DylanBai4028/Google-Data-Analytics-Professional-Certificate---Case-Study-1/blob/main/Case_Study_1_mdfile_.md) - an HTML preview of my data analysis work on this case study is available in the MD file, extracted from my RMarkdown file.
+* [Tableau_Dashboard.png](https://github.com/DylanBai4028/Google-Data-Analytics-Professional-Certificate---Case-Study-1/blob/main/Tableau_Dashboard.png) - image relating to my data visualisation dashboard created with Tableau.
