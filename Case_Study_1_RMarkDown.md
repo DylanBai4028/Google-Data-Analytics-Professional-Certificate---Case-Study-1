@@ -850,7 +850,7 @@ directs audiences to my interactive data visualisation dashboard on
 Tableau, enabling stakeholders to easily interpret the insights. A
 screenshot of the dashboard is also provided below for quick reference.
 
-![](Images/Tableau_Dashboard.png)
+![](Tableau_Dashboard.png)
 
 ### Step 6: Act
 
