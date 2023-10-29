@@ -2,7 +2,7 @@
 title: "Case Study 1 Data Analysis"
 author: "Dylan Bai"
 date: "`r Sys.Date()`"
-output: html_document
+output: github_document
 ---
 
 # Google Data Analytics Professional Certificate – Capstone Project
