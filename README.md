@@ -1,2 +1,2 @@
 # Google-Data-Analytics-Professional-Certificate---Case-Study-1
-This repository contains my work carried out to undertake the Capstone Project for the Google Data Analytics Professional Certificate Course. 
+This repository showcases my work for the Google Data Analytics Professional Certificate Course Capstone Project. Utilising R, I processed and analysed the provided open-source dataset from Cyclistic, a Chicago-based bike-sharing company. The findings were then translated into an interactive Tableau dashboard, delineating the disparities in the usage patterns between casual and member riders, culminating in marketing suggestions to convert casual riders into loyal Cyclistic members.
